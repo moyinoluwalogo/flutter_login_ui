@@ -1,16 +1,34 @@
-# loginui_flutter_app
+## Flutter Simple Login Page UI Design
 
-A new Flutter project.
+```dart
+class Day1 extends CodeWithMoyin {
+  video() {
+    return {
+      "title": "Flutter Simple Login Page UI Design",
+      "description": "Let's build a Simple Login Page UI following a dribbble design..",
+      "videoLink": "https://www.youtube.com/watch?v=_3Pbpq4BG4Q"
+    }
+  }
+}
+```
 
-## Getting Started
+[Watch it on Youtube](https://www.youtube.com/watch?v=_3Pbpq4BG4Q)
+<br><br>
 
-This project is a starting point for a Flutter application.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Design Credit - https://dribbble.com/shots/5239966-Daily-UI-001
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshot.png" height="500em" />
+
+## Links
+
+* [Website](https://moyinoluwalogo.github.io/)
+* [Youtube channel](https://www.youtube.com/@moyinmayowa)
